@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Azaan
+=======
+Sam
+>>>>>>> 3149ebec4dde8207e5ec2664807ffea6131df7d0
